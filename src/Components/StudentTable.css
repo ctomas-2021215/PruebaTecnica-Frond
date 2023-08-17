@@ -1,0 +1,31 @@
+/* StudentTable.css */
+
+.table {
+    border: 2px solid #000000;
+  }
+  
+  .table th,
+  .table td {
+    padding: 10px;
+  }
+  
+  .table th {
+    background-color: #343a40;
+    color: #ffffff;
+  }
+  
+  .table-striped tbody tr:nth-of-type(odd) {
+    background-color: #ffffff;
+  }
+  
+  .table-bordered th,
+  .table-bordered td {
+    border: 1px solid #ddd;
+  }
+  
+  .container {
+    max-width: 8400px;
+    margin: 0 auto;
+  }
+  
+  
